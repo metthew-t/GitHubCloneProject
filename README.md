@@ -1,1 +1,2 @@
-"This is the description of my repo" 
+GitHubRepoProject
+Practice branching and merging branches. 
